@@ -14,8 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=peroxic&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
