@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h3>SECURITY RESEARCHER & SYSTEMS ARCHITECT</h3>
+  <h3>SECURITY RESEARCHER & SYSTEMS ADMINISTRATOR</h3>
   <sub>Specialized in Advanced Systems Development and Security Engineering</sub>
 </div>
 
