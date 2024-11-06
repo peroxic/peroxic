@@ -7,32 +7,12 @@
   <sub>Specialized in Advanced Systems Development and Security Engineering</sub>
 </div>
 
-## OPERATIONAL DOMAINS
-└── Enterprise Solutions
-    ├── System Architecture
-    ├── Security Engineering
-    ├── Infrastructure Design
-    └── Protocol Development
-TECHNICAL PROFICIENCY
-Infrastructure	
-Security	
-Development	
-Systems	
-METRICS & ANALYTICS
-OPERATIONAL STATISTICS
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=peroxic&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</div>
 
-SECURITY CLEARANCE & VERIFICATION
-SYSTEM ARCHITECTURE
-Mermaid
-graph TD
-    A[Frontend Systems] --> B[API Gateway]
-    B --> C[Core Services]
-    C --> D[Database Layer]
-    B --> E[Security Module]
-    E --> F[Authentication]
-    E --> G[Authorization]
-PERFORMANCE METRICS
-SYSTEM STATUS
-Main Systems		99.99%
-Security Protocols		100%
-Development Pipeline		99.95%
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
