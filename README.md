@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=PEROXIC&fontSize=80&animation=fadeIn&fontColor=FFFFFF&fontAlign=51"/>
 </div>
 
